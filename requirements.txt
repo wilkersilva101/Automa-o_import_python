@@ -1,0 +1,7 @@
+schedule==1.2.2
+pip~=24.2
+protobuf~=5.28.0
+pandas~=2.2.2
+google-api-python-client~=2.143.0
+google-auth-oauthlib~=1.2.1
+playwright~=1.46.0
